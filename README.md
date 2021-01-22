@@ -9,7 +9,7 @@
 ## 概論
 ## Introduction
 ## Methods
-[OSM上に載っているとんかつ]（https://docs.google.com/spreadsheets/d/1xnWAmlLVDLfa12DDGjNbNfGhFdzVgP8gkxIkSMBPE1U/edit?usp=sharing)
+[OSM上に載っているとんかつ](https://docs.google.com/spreadsheets/d/1xnWAmlLVDLfa12DDGjNbNfGhFdzVgP8gkxIkSMBPE1U/edit?usp=sharing)
 
 ## Results
 ## Discussion
