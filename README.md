@@ -13,7 +13,7 @@
 しかし、OSM上ではとんかつ店の位置情報の整理は行われていない。そこで、本研究ではOSMのオープンな地理空間情報プラットフォームを用いて、日本全国の2021年1月時点のとんかつ店のデータを整理し、タグルールの提案によって、自由に位置情報データにアクセスできることを試みた。
 
 ## Methods
-[OSM上に載っているとんかつ](https://docs.google.com/spreadsheets/d/1xnWAmlLVDLfa12DDGjNbNfGhFdzVgP8gkxIkSMBPE1U/edit?usp=sharing)をスプレッドシートを使用し、まとめた。  
+[OSM上に載っているとんかつ店舗情報](https://docs.google.com/spreadsheets/d/1xnWAmlLVDLfa12DDGjNbNfGhFdzVgP8gkxIkSMBPE1U/edit?usp=sharing)をスプレッドシートを使用し、まとめた。  
 OSM上のとんかつ店の情報を整理した。2021年1月時点における
 * OSM TagInfo内で ”とんかつ” と検索してヒットするnameタグ　48件
 * 店舗情報（Node）として既にOSM上に存在していたのが　45件
@@ -43,8 +43,8 @@ OSM上のとんかつ店の情報を整理した。2021年1月時点における
 
 ## Conculsion
 ## 参考文献
-・渡辺結南　[日本全国のラーメン二郎店舗位置情報オープン化の実践](https://furuhashilab.github.io/www4yunawatanabe/)
-・増子保志　[「とんかつと受容に関するー考察」](https://www.jstage.jst.go.jp/article/gscs/16/1/16_3/_pdf/-char/ja)
+* 渡辺結南　[日本全国のラーメン二郎店舗位置情報オープン化の実践](https://furuhashilab.github.io/www4yunawatanabe/)
+* 増子保志　[「とんかつと受容に関するー考察」](https://www.jstage.jst.go.jp/article/gscs/16/1/16_3/_pdf/-char/ja)
 ## 謝辞
 本研究を進めるにあたり地球社会共生学部の古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
