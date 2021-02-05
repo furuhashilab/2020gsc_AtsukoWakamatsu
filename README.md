@@ -89,6 +89,8 @@ amenity=fast_foodは早いカウンターのみのサービスと、食べ物の
 新型コロナウイルスの影響により一部店舗では持ち帰りサービスを開始しているが、多くの店は持ち帰りよりもテーブル席で食事をすることを主としているためrestaurantタグが望ましいと考えられる。
 #### JA:Naming sampleにおけるとんかつチェーン店の位置付け
 JA:Naming sampleを参考にすると、amenity=restaurantの欄にとんかつチェーンである和幸が存在する。
+<img width="1146" alt="スクリーンショット 2021-01-25 18 32 29" src="https://user-images.githubusercontent.com/40018174/107035294-537bb300-67fb-11eb-918d-742ddec86811.png">
+
 これらを踏まえて、とんかつ店は基本的に**amenity=restaurant**に統一できるのではないかと考える。
 ### ③とんかつ店のcuisineタグはどのように統一すべきか。
 とんかつは和食、郷土料理、フライ料理、または”とんかつ”として分類できるのかを検討した。  
@@ -131,3 +133,4 @@ https://github.com/furuhashilab/sotsuron2020/projects/21
 ## 発表用プレゼンテーション
 https://speakerdeck.com/atsukowakamatsu/semilun-fa-biao-zi-liao
 
+![QR_506725](https://user-images.githubusercontent.com/40018174/107053023-af513680-6811-11eb-8d0c-904d0ced171d.png)
