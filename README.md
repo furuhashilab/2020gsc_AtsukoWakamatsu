@@ -62,7 +62,7 @@ OSM TagInfo内での検索した結果
 * ”トンカツ” と検索してヒットするnameタグ　4件
 * ”tonkatsu” と検索してヒットするnameタグ　24件
 であった。  
-私が実際に行ったことのあるとんかつ店１１店舗のうち全ての店舗ののれんが「とんかつ」と表記していた。  
+私が実際に訪れたとんかつ店１１店舗のうち全ての店舗ののれんが「とんかつ」と表記していた。  
 以上から、**「とんかつ」がもっとも一般的な呼び名として利用されている**と言える。
 ### ②とんかつ店のamenity=restaurant,amenity=fastfoodの検討 
 OSM wiki によるとそれぞれ下記のように定義されている。
@@ -83,7 +83,9 @@ amenity=fast_foodは早いカウンターのみのサービスと、食べ物の
 よってrestaurantのタグに当てはまると言える。
 #### 持ち帰り制度と座席について
 松のやなどのチェーン店では券売機での支払いを先に済ませ、店内で食べる場所と持ち帰りができるようなシステムを採用している。
-一方で、チェーン店でない個人経営のとんかつ店ではカウンター席、テーブル席があり、ウェイターが給仕するamenity=restaurantのような仕様である場合が多い。新型コロナウイルスの影響により一部店舗では持ち帰りサービスを開始しているが、多くの店は持ち帰りよりもテーブル席で食事をすることを主としているためrestaurantタグが望ましいと考えられる。
+
+一方で、チェーン店でない個人経営のとんかつ店ではカウンター席、テーブル席があり、ウェイターが給仕するamenity=restaurantのような仕様である場合が多い。  
+新型コロナウイルスの影響により一部店舗では持ち帰りサービスを開始しているが、多くの店は持ち帰りよりもテーブル席で食事をすることを主としているためrestaurantタグが望ましいと考えられる。
 #### JA:Naming sampleにおけるとんかつチェーン店の位置付け
 JA:Naming sampleを参考にすると、amenity=restaurantの欄にとんかつチェーンである和幸が存在する。
 これらを踏まえて、とんかつ店は基本的に**amenity=restaurant**に統一できるのではないかと考える。
@@ -114,9 +116,9 @@ TagInfo内で ”돈까스” と検索してヒットするnameタグ　3件存
 
 ## Conculsion
 本研究を通してOSM上にある既存のとんかつ店の情報未整備の現状を明らかにし、新たなタグルールの提案を行った。そして今後とんかつ店をOSM上で編集していく上でOSMwikiページを作成した。
-課題として、現地調査を元にしたとんかつ店における必要情報は何かを明らかにしタギングルールの統一、また正式にcusineタグ「japanese;tonkatsu」の承認に向けた取り組みが挙げられる。
+課題として、現地調査を元にしたとんかつ店における必要情報は何かを明らかにし、タギングルールの統一、また正式にcusineタグ「japanese;tonkatsu」の承認に向けた取り組みが挙げられる。
 ## 参考文献
-[参考文献リスト](https://docs.google.com/spreadsheets/d/1RqsegRZAp1sKmjVZdPUnq_JEwCtUKe6rBDOQLTgyyLk/edit?usp=sharing)
+[参考文献リスト](https://docs.google.com/spreadsheets/d/13bHDDMThWOcwbgqP8UC4PZTZNjh3WzBEXfLeLCUvvxY/edit?usp=sharing)
 * 渡辺結南　[日本全国のラーメン二郎店舗位置情報オープン化の実践](https://furuhashilab.github.io/www4yunawatanabe/)
 * 増子保志　[「とんかつと受容に関するー考察」](https://www.jstage.jst.go.jp/article/gscs/16/1/16_3/_pdf/-char/ja)
 
@@ -126,5 +128,5 @@ TagInfo内で ”돈까스” と検索してヒットするnameタグ　3件存
 ## 進捗管理用プロジェクト
 https://github.com/furuhashilab/sotsuron2020/projects/21
 ## 発表用プレゼンテーション
-
+https://speakerdeck.com/atsukowakamatsu/semilun-fa-biao-zi-liao
 
