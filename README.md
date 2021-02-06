@@ -64,7 +64,9 @@ OSM TagInfo内での検索した結果
 * ”tonkatsu” と検索してヒットするnameタグ　24件
 であった。  
 私が実際に訪れたとんかつ店１１店舗のうち全ての店舗ののれんが「とんかつ」と表記していた。  
-以上から、**「とんかつ」がもっとも一般的な呼び名として利用されている**と言える。
+
+~~以上から、**「とんかつ」がもっとも一般的な呼び名として利用されている**と言える。~~
+→[最終発表](https://github.com/furuhashilab/2020gsc_AtsukoWakamatsu/issues/4#issuecomment-774410028)後のアドバイスからウィキペディアとの互換性が高く、言語上正しい「豚カツ」を利用していくのが良い。
 ### ②とんかつ店のamenity=restaurant,amenity=fastfoodの検討 
 OSM wiki によるとそれぞれ下記のように定義されている。
 #### amenity=restaurant
